@@ -1,6 +1,8 @@
 # WheySpy: [Visit Here!](https://wheyspy.vercel.app/)  
 I developed this SaaS application to monitor prices of whey protein and other gym supplements, enabling users to consistently secure the best pricing.
 
+*Note: The source code is currently in a private repository.*
+
 <div align="center">
   <a href="https://wheyspy.vercel.app/" target="_blank">
     <img src="https://github.com/user-attachments/assets/3bd585cb-cea5-4e53-ae48-e1e8954d5aec" width="80%">
